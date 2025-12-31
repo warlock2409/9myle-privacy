@@ -105,5 +105,5 @@ Any changes will be posted in this document with an updated date.
 
 If you have questions about this Privacy Policy, contact us at:
 
-**Email:** support@9myle.com  
+**Email:** buzylifeapp@gmail.com
 **App Name:** 9myle
