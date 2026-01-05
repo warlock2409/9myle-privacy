@@ -1,6 +1,20 @@
 # Privacy Policy
 
-**Last updated:** 31 December 2025  
+**Last updated:** 05 Jan 2025  
+
+## Health Data Disclaimer
+
+9myle is a fitness discovery and booking platform.  
+The App does **not** collect, store, process, or share any medical data or sensitive health information.
+
+We do not collect information related to:
+- Medical conditions or diagnoses
+- Menstrual or reproductive health
+- Nutrition or diet tracking
+- Sleep tracking
+- Mental health data
+
+The App does not provide medical advice, diagnosis, or treatment.
 
 **9myle** ("we", "our", "us") operates the **9myle mobile application** (the "App").  
 This Privacy Policy explains how we collect, use, and protect your information when you use our App.
