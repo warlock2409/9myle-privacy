@@ -101,7 +101,14 @@ Any changes will be posted in this document with an updated date.
 
 ---
 
-## 10. Health Data Disclaimer
+## 10. Fitness Disclaimer
+
+Any fitness-related information displayed in the App is provided by gyms or fitness centers for general informational purposes only.  
+Users should consult qualified fitness or medical professionals before starting any exercise program.
+
+---
+
+## 11. Health Data Disclaimer
 
 9myle is a fitness discovery and booking platform.  
 The App does **not** collect, store, process, or share any medical data or sensitive health information.
@@ -117,7 +124,7 @@ The App does not provide medical advice, diagnosis, or treatment.
 
 ---
 
-## 11. Contact Us
+## 12. Contact Us
 
 If you have questions about this Privacy Policy, contact us at:
 
