@@ -123,6 +123,18 @@ We do not collect information related to:
 The App does not provide medical advice, diagnosis, or treatment.
 
 ---
+## Fitness Activity Data
+
+9myle may display non-medical fitness activity information such as:
+- Gym attendance history
+- Booking records
+- Visit streaks
+- Facility traffic information
+
+This data is used only to show activity consistency and app usage.
+9myle does not track or analyze body measurements, weight, vital signs, calories, or medical or health conditions.
+
+---
 
 ## 12. Contact Us
 
